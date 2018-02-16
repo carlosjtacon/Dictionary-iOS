@@ -20,7 +20,7 @@
 {
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     
-    UIColor *tintColor = [UIColor colorWithRed:0.600 green:0.400 blue:0.200 alpha:1.000];
+    UIColor *tintColor = [UIColor colorWithRed:1.000 green:0.231 blue:0.188 alpha:1.000];
     [[UINavigationBar appearance] setTintColor:tintColor];
     [[UISearchBar appearance] setTintColor:tintColor];
     
