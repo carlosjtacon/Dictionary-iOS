@@ -4,4 +4,4 @@ Forked from [Dictionary++](https://github.com/josh-/DictionaryPlusPlus) a simple
 This app violates the App Store [rules](https://developer.apple.com/documentation/uikit/uireferencelibraryviewcontroller), so you'll need to compile and install it on your devices yourself using XCode. Dictionary++ Licensed under the [MIT](http://opensource.org/licenses/MIT).
 
 # Screenshots
-![](https://github.com/carlosjtacon/Dictionary-iOS/raw/master/Screenshots/dictionary1.png) ![](https://github.com/carlosjtacon/Dictionary-iOS/raw/master/Screenshots/dictionary2.png) ![](https://github.com/carlosjtacon/Dictionary-iOS/raw/master/Screenshots/dictionary3.png) ![](https://github.com/carlosjtacon/Dictionary-iOS/raw/master/Screenshots/dictionary4.png)
+<img src="https://github.com/carlosjtacon/Dictionary-iOS/raw/master/Screenshots/dictionary1.png" width="25%"><img src="https://github.com/carlosjtacon/Dictionary-iOS/raw/master/Screenshots/dictionary2.png" width="25%"><img src="https://github.com/carlosjtacon/Dictionary-iOS/raw/master/Screenshots/dictionary3.png" width="25%"><img src="https://github.com/carlosjtacon/Dictionary-iOS/raw/master/Screenshots/dictionary4.png" width="25%">
